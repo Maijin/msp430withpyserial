@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-#That code use the Temperature_Sense_Demo original project
+#That code uses the Temperature_Sense_Demo original project
 
 import serial #pyserial module
 
