@@ -1,0 +1,1 @@
+Quelques petits programmes pour tester l'interaction Python(Pyserial) avec le MSP430
