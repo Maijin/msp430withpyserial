@@ -1,5 +1,7 @@
 # -*- coding:utf-8 -*- 
 
+#That code uses the Temperature_Sense_Demo original project
+
 from Tkinter import *
 import tkSimpleDialog
 import time
