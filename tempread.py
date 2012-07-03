@@ -2,7 +2,11 @@
 
 #That code uses the Temperature_Sense_Demo original project
 
-import serial #pyserial module
+try:
+    import serial
+except ImportError:
+    raise ImportError, 'This program recquires the pyserial module. See http://pyserial.sourceforge.net/pyserial.html'
+
 
 port=raw_input("Which port ? ")
 
